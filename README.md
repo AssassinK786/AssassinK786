@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal CyberSecurity, IoT & Embedded projects**
  
-- 👀 I’m interested in **IoT,Embedded,BLockChain and Cybersecurity**
+- 👀 I’m interested in **IoT,Embedded,BlockChain and Cybersecurity**
 
 - 🌱 I’m currently learning **IoT, Embedded, Blockchain and Cloud Security**
 
