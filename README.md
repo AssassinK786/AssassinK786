@@ -1,4 +1,4 @@
--                                                                        ** 👋 Hi, I’m @AssassinK786**
+-                                                                      👋 Hi, I’m @AssassinK786
 - 👀 I’m interested in IoT,Embedded,BLockChain and Cybersecurity.
 - 🌱 I’m currently learning IoT, Embedded, Blockchain and Cloud Security
 - 💞️ I’m looking to collaborate on CyberSecurity, IoT & Embedded Projects
