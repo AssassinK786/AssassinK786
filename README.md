@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Khush Vasudeo Patil</h1>
-<h2 align="center">A passionate IoT,Embedded developer and Cybersecurity from India</h2>
+<h2 align="center">A passionate IoT,Embedded developer and Cybersecurity Intern from India</h2>
 
 - 🔭 I’m currently working on **Personal CyberSecurity, IoT & Embedded projects**
  
