@@ -25,6 +25,8 @@
 <a href="https://github-profile-trophy.vercel.app/?username=AssassinK786&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=AssassinK786&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="AssassinK786" /></a> </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AssassinK786&theme=highcontrast" alt="AssassinK786" /></p> 
+
+![Alt](https://repobeats.axiom.co/api/embed/e5bc19c48e8b15763724d54820efcfcaf27ccf99.svg "Repobeats analytics image") 
  
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=AssassinK786&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
