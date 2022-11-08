@@ -12,11 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: AssassinK786/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-      - uses: AssassinK786/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: .metrics/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
       - name: header
-        uses: AssassinK786/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/header.svg
           # You'll need to setup a personal token in your secrets.
@@ -45,7 +45,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
       - name: lines
-        uses: AssassinK786/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -54,7 +54,7 @@ jobs:
           plugin_lines: yes
 
       - name: acti_comm
-        uses: AssassinK786/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/acti_comm.svg
           # You'll need to setup a personal token in your secrets.
@@ -69,7 +69,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           
       - name: iso_calendar
-        uses: AssassinK786/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/iso_calender.svg
           # You'll need to setup a personal token in your secrets.
@@ -86,7 +86,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
       - name: issue_pr_lang
-        uses: AssassinK786/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
@@ -103,7 +103,7 @@ jobs:
           plugin_languages: yes
 
       - name: repositories
-        uses: AssassinK786/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/repositories.svg
           # You'll need to setup a personal token in your secrets.
