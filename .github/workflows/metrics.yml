@@ -42,24 +42,8 @@ jobs:
           user: AssassinK786
           template: classic
           base: header
-          
-          
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-
-      - name: base
-        uses: lowlighter/metrics@latest
-        with:
-          filename: .metrics/base.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Options
-          user: AssassinK786
-          template: classic
-          base: header
-          
+          base_hireable: yes
+          config_timezone: ${{ secrets.USER_TIMEZONE }}     
           
       - name: lines
         uses: lowlighter/metrics@latest
