@@ -42,6 +42,8 @@ jobs:
           user: AssassinK786
           template: classic
           base: header
+          
+          
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
       - name: base
@@ -57,7 +59,7 @@ jobs:
           user: AssassinK786
           template: classic
           base: header
-          base_hireable: yes
+          
           
       - name: lines
         uses: lowlighter/metrics@latest
