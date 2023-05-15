@@ -12,11 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.32
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.32
         with:
           filename: .metrics/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
       - name: header
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           filename: .metrics/header.svg
           # You'll need to setup a personal token in your secrets.
@@ -46,7 +46,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}     
           
       - name: lines
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           filename: .metrics/lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -55,7 +55,7 @@ jobs:
           plugin_lines: yes
 
       - name: acti_comm
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           filename: .metrics/acti_comm.svg
           # You'll need to setup a personal token in your secrets.
@@ -70,7 +70,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           
       - name: iso_calendar
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           filename: .metrics/iso_calender.svg
           # You'll need to setup a personal token in your secrets.
@@ -87,7 +87,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
       - name: issue_pr_lang
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           filename: .metrics/issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
@@ -104,7 +104,7 @@ jobs:
           plugin_languages: yes
 
       - name: repositories
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           filename: .metrics/repositories.svg
           # You'll need to setup a personal token in your secrets.
