@@ -11,6 +11,29 @@
 
 - 💞️ I’m looking to collaborate on **CyberSecurity, IoT, Microelectronics& Embedded Projects**
 
+<h3 align="left">🛠 Languages I know</h3>
+
+###
+[![Languages](https://skillicons.dev/icons?i=bash,c,cpp,v,zig,md)](https://skillicons.dev)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
+
+
+<h3 align="left">🛠 Languages I learning</h3>
+
+###
+[![Languages](https://skillicons.dev/icons?i=v,zig)](https://skillicons.dev)
+
+<h3 align="left">🛠 Tools</h3>
+
+###
+[![Tools](https://skillicons.dev/icons?i=github,git,vscode,vscodium,md)](https://skillicons.dev)
+
+
+<h3 align="left">🛠 OS </h3>
+
+###
+[![OS](https://skillicons.dev/icons?i=linux,bsd,windows,ros)](https://skillicons.dev)
+
+
 <details><summary>GitHub Metrics</summary>
   
 <br>
