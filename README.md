@@ -14,7 +14,7 @@
 <h3 align="left">🛠 Languages I know</h3>
 
 ###
-[![Languages](https://skillicons.dev/icons?i=bash,c,cpp,v,zig,md)](https://skillicons.dev)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
+[![Languages](https://skillicons.dev/icons?i=bash,c,cpp)](https://skillicons.dev)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
 
 
 <h3 align="left">🛠 Languages I learning</h3>
