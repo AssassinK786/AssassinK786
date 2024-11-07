@@ -14,8 +14,7 @@
 <h3 align="left">🛠 Languages I know</h3>
 
 ###
-[![Languages](https://skillicons.dev/icons?i=bash,c,cpp)](https://skillicons.dev)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
-
+[![Languages](https://skillicons.dev/icons?i=bash,c,cpp)](https://skillicons.dev)
 
 <h3 align="left">🛠 Languages I learning</h3>
 
@@ -31,8 +30,7 @@
 <h3 align="left">🛠 OS </h3>
 
 ###
-[![OS](https://skillicons.dev/icons?i=linux,bsd,windows,ros)](https://skillicons.dev)
-
+[![OS](https://skillicons.dev/icons?i=linux,bsd,windows,ros)](https://skillicons.dev)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
 
 <details><summary>GitHub Metrics</summary>
   
