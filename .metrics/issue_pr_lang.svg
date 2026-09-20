@@ -113,7 +113,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    26 Languages
+                    27 Languages
                 </h2>
             </section>
             <section class="column">
@@ -123,27 +123,27 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="143.41213468733065" height="8" fill="#b2b7f8"/>
-                    <rect mask="url(#languages-bar)" x="143.41213468733065" y="0" width="109.2684933146704" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="252.68062800200101" y="0" width="64.8330081594573" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="317.5136361614583" y="0" width="52.47819834087191" height="8" fill="#DAE1C2"/>
-                    <rect mask="url(#languages-bar)" x="369.9918345023302" y="0" width="47.90920976982302" height="8" fill="#adb2cb"/>
-                    <rect mask="url(#languages-bar)" x="417.9010442721533" y="0" width="16.39208007129847" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="434.2931243434517" y="0" width="13.67791696891455" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="447.97104131236625" y="0" width="12.028958687633747" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.24495480380426" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="429.24495480380426" y="0" width="12.489571711708749" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="441.73452651551304" y="0" width="5.672957855890633" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.40748437140365" y="0" width="4.404901686095074" height="8" fill="#DAE1C2"/>
+                    <rect mask="url(#languages-bar)" x="451.8123860574987" y="0" width="3.974142263466151" height="8" fill="#adb2cb"/>
+                    <rect mask="url(#languages-bar)" x="455.78652832096486" y="0" width="1.6381136735921054" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="457.42464199455696" y="0" width="1.3597481258916855" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.7843901204487" y="0" width="1.2156098795513628" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Verilog
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Verilog
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -165,6 +165,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Assembly
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C++
@@ -174,12 +180,6 @@
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Assembly
                     </div>
                 </div>
             </section>
